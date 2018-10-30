@@ -1,5 +1,7 @@
 # slider p5.js
 Canvas integrated slider
+
+![](https://i.gyazo.com/8303c3d74a721150172ab09bfd80421a.png)
 ```javascript
 Slider slider = new Slider(x, y, width, height, r, g, b, alpha);
 ```
