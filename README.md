@@ -3,7 +3,7 @@ Canvas integrated slider
 
 ![](https://i.gyazo.com/8303c3d74a721150172ab09bfd80421a.png)
 ```javascript
-Slider slider = new Slider(x, y, width, height, r, g, b, alpha);
+let slider = new Slider(x, y, width, height, r, g, b, alpha);
 ```
 where x and y are location on the canvas, and rgba are the color values of the slider.
 
